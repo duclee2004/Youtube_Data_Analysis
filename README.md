@@ -4,8 +4,8 @@ Youtube_Data_Analysis
 
 ## Mô tả
 
-Sử dụng Apache Spark, PySpark để phân tích dữ liệu từ Youtube
-Ngôn ngữ : Python
+- Sử dụng Apache Spark, PySpark để phân tích dữ liệu từ Youtube
+- Ngôn ngữ : Python
 
 ## Data
 
